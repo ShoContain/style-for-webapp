@@ -336,9 +336,32 @@
                                 </div>
                             </div>
                     </div>
-                    <div class="bg-indigo-500 w-56 flex-none flex flex-col justify-between">
-                        <div class="overflow-y-auto">User Side Bar Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, corporis culpa, cupiditate dolor dolores, dolorum earum eos est facilis incidunt ipsa iste iusto maiores molestiae natus necessitatibus nisi optio pariatur provident quam quidem quis quo repellendus velit vero. Adipisci alias aliquam asperiores aspernatur assumenda cumque deserunt distinctio, dolorem eaque eos est impedit inventore laboriosam laudantium nemo nobis numquam, obcaecati, optio porro quos repudiandae soluta totam vero! Autem corporis cumque deserunt, dicta earum hic iusto molestias natus sit ut veritatis vero? Accusamus ad aperiam atque blanditiis consectetur consequatur cum dicta doloribus ducimus eum fuga id in incidunt labore laboriosam maxime, modi molestiae molestias necessitatibus, neque non nulla, odit provident quasi quibusdam rem rerum sequi suscipit tempora tempore temporibus tenetur veritatis voluptates. Ab dignissimos enim fuga id officia quidem repellat voluptate? Animi consequatur dolor ducimus error eum iste omnis perferendis placeat, ullam voluptates? Enim fuga nostrum omnis quo recusandae tenetur? Atque dolorem doloremque exercitationem neque nobis quam totam vero? A ab ad amet aspernatur at cupiditate dignissimos dolore doloremque dolorum eos et eum exercitationem fugiat in incidunt ipsum iste iusto labore laborum maxime molestias, nostrum numquam officia omnis porro quam quasi qui quibusdam quis recusandae reprehenderit sed suscipit ullam unde velit, veritatis voluptas. Aliquam dignissimos doloremque esse eum rerum? A ab animi aperiam assumenda aut consequatur culpa cupiditate, eius error ex explicabo fugit illo itaque laborum natus necessitatibus nemo quis reprehenderit saepe, ut vel, veritatis voluptatem. Aspernatur atque commodi consequatur cum, cupiditate dolor dolores dolorum enim eum expedita, iusto laudantium odit optio perferendis quo sint sit tenetur vero! Ad beatae consectetur consequuntur culpa cum distinctio error illo laboriosam laborum maxime molestiae natus, numquam, odit quae quis sed sit tenetur voluptas. Accusamus aperiam atque cum, debitis deserunt dolore doloribus ea earum eos error eveniet ex illo incidunt inventore laboriosam magnam non, odio odit perspiciatis praesentium quia quo ratione recusandae sed similique tempora voluptates. Ab accusamus aliquam amet blanditiis cupiditate dicta dolorum ea earum eius enim et eum eveniet ex expedita explicabo facilis impedit ipsum laborum, modi nam nostrum nulla omnis perspiciatis placeat possimus praesentium provident quaerat quam quas quia quod ratione saepe sint sunt totam veniam voluptatibus! Ab architecto consequuntur esse in, ipsa pariatur reprehenderit sapiente ut voluptatem! Amet, commodi ducimus excepturi fugiat itaque laborum minus molestiae officiis, pariatur quisquam saepe, sint vero voluptas? Aliquam, aliquid aut autem culpa deleniti ducimus enim laudantium minima necessitatibus perferendis provident repellat sed voluptas. Autem consectetur dignissimos distinctio eos est id perspiciatis quibusdam, ratione reiciendis totam? Adipisci commodi cupiditate eius ex excepturi explicabo iste iusto minus possimus, repudiandae saepe, tempora voluptatem! Animi beatae commodi, deleniti dolore enim eos inventore nam neque perferendis porro quo recusandae reiciendis sequi, sint sunt suscipit vero voluptatem. Ab accusantium aliquam animi aut culpa cum debitis eos fugiat molestias mollitia, numquam officiis placeat provident quia repudiandae ullam voluptatum! Alias aspernatur blanditiis consequuntur corporis, cumque doloribus eius enim illo mollitia natus nemo nesciunt nisi nobis odit officiis praesentium quam quasi quo rerum sapiente sequi sunt tempore, temporibus totam ullam ut voluptatum. Deleniti iste, vitae!</div>
-                        <div class="bg-blue-600">Bottom of User Side Bar</div>
+                    <div class="bg-gray-800 w-56 flex-none overflow-y-auto px-2 py-3">
+                        <h3 class="tracking-wide uppercase text-gray-400 font-semibold text-sm">Core Team — 1</h3>
+                        <ul class="mb-6 core-team">
+                            <li class="text-gray-500 px-2 hover:text-teal-300">
+                                <a href="" class="flex items-center mt-2">
+                                    <span><img src="static/avatar2.jpg" alt="" class="w-6 h-6 rounded-full"></span>
+                                    <span class="ml-3 text-sm">Rodjer</span>
+                                </a>
+                            </li>
+                        </ul><!--end of core team -1 リスト-->
+
+                        <h3 class="tracking-wide uppercase text-gray-400 font-semibold text-sm">Online — 4</h3>
+                        <ul class="mb-6 online">
+                            <li class="text-gray-500 px-2 hover:text-teal-300 mt-2">
+                                <a href="" class="flex items-center">
+                                    <span><img src="static/avatar.jpg" alt="" class="w-6 h-6 rounded-full"></span>
+                                    <span class="ml-3 text-sm">Rodjer</span>
+                                </a>
+                            </li>
+                            <li class="text-gray-500 px-2 hover:text-teal-300  mt-3">
+                                <a href="" class="flex items-center">
+                                    <span><img src="static/avatar2.jpg" alt="" class="w-6 h-6 rounded-full"></span>
+                                    <span class="ml-3 text-sm">Bob</span>
+                                </a>
+                            </li>
+                        </ul><!--end of online リスト-->
                     </div>
                 </div>
             </div>
