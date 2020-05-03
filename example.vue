@@ -62,7 +62,7 @@
                 </ul>
             </div>
         </div>
-        <div class="flex flex-col min-h-screen h-screen">
+        <div class="flex flex-col min-h-screen h-screen flex-1">
             <div class="flex text-white h-12">
                 <div class="bg-gray-800 w-56 flex-none flex justify-between px-3 py-2 border-b border-gray-900">
                     <div>Tailwind</div>
@@ -178,7 +178,164 @@
                     </div>
                 </div>
                 <div class="flex-1 flex justify-between">
-                    <div class="bg-gray-700 flex-1 overflow-y-auto">Display Chat Content Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aperiam deleniti dolor est facere incidunt ipsa libero maxime, nobis non omnis perferendis quia suscipit, veritatis voluptas? Aliquid architecto asperiores assumenda at, deserunt distinctio, ea eligendi enim eos et excepturi expedita incidunt laborum laudantium magni maiores nemo nihil obcaecati odit officia provident qui quisquam rerum sit suscipit tempore ut vitae? Blanditiis cupiditate, distinctio ea eius esse et facilis fugiat in itaque iusto neque, officia officiis omnis pariatur quo rerum sed vel. Accusamus animi consequuntur, dicta eligendi ex exercitationem, nesciunt obcaecati sint sit suscipit tempore totam vel! Assumenda commodi consequuntur cum deserunt, dolore ea eius, facilis fuga fugit illo iure iusto laudantium nam nisi nobis placeat quibusdam repellat saepe sapiente similique sint soluta, voluptas. Dolor illum quam totam voluptas. Accusamus adipisci alias aperiam aspernatur aut beatae consectetur consequuntur culpa delectus deleniti deserunt dignissimos dolorem doloremque ducimus eius eum eveniet fugiat, hic id iusto labore libero magni minus molestias mollitia nobis, numquam omnis placeat quia repellat saepe similique sit sunt unde vel veniam veritatis? Asperiores atque consequatur distinctio fugiat numquam! Aliquid doloribus eligendi explicabo facere ipsum maiores placeat quis repudiandae totam ullam. Atque cupiditate deleniti deserunt distinctio dolor dolorem doloribus eum expedita fuga harum, laudantium maiores, molestias nihil non nostrum officia perferendis quaerat reiciendis rem rerum suscipit tempore temporibus voluptatum! Aspernatur, autem distinctio dolorem et in iste iure maiores nesciunt quam recusandae sint, sunt tempora voluptas voluptate voluptates? Debitis dicta error illum magni mollitia qui tempora, temporibus ut. Adipisci amet dolor dolores error harum in ipsa molestias non odio quae ratione reprehenderit, suscipit velit vero voluptatem! Aspernatur debitis, eius error, exercitationem explicabo ipsa ipsum, itaque libero maiores nihil possimus recusandae soluta voluptatibus. Alias aliquam aliquid at corporis cum debitis, dignissimos dolore eos, explicabo fuga fugit hic inventore ipsum iste maiores maxime molestias neque nesciunt odio porro quas quia, quis ratione repudiandae saepe sequi sunt temporibus tenetur veritatis voluptate? A alias aliquam asperiores dicta ducimus eligendi libero molestias neque quas, vero. Alias commodi eum excepturi fugiat incidunt ipsam, ipsum non perspiciatis placeat quae quidem recusandae repudiandae tempora veniam, voluptatibus! Accusamus ad aut beatae corporis cumque deleniti deserunt dolore eaque fuga fugiat id in incidunt ipsa maiores maxime, molestias natus nisi perspiciatis placeat possimus quam quas quia, quis quisquam repellendus sequi similique suscipit totam velit voluptatem? Aliquid amet aperiam assumenda at atque cum distinctio doloremque dolores ea esse et eveniet fuga fugiat id in itaque labore magnam maxime molestiae nam necessitatibus nostrum obcaecati, odit officia praesentium quae quaerat quas quidem quos recusandae similique sint vel veritatis? Accusamus aperiam eius id in ipsam itaque, magni non nostrum quisquam repudiandae. Aliquam consectetur cumque cupiditate iure laboriosam officia quaerat tenetur! At ducimus eligendi quam. Aliquid assumenda deleniti dignissimos facere facilis fuga fugit inventore iure maiores mollitia neque nobis nostrum nulla provident, quae quibusdam totam. Architecto at commodi delectus deleniti dolorem et excepturi fugiat id impedit inventore labore magni nam nobis, nostrum odit pariatur possimus, quis recusandae sequi ullam? Ab accusantium alias aliquam amet, atque beatae consectetur consequuntur corporis dolore doloremque eaque et maxime nam nemo nesciunt odit reiciendis. Commodi earum neque pariatur possimus sunt. Ad dicta facere, impedit perspiciatis praesentium quos totam unde! Aperiam at commodi, consequatur consequuntur culpa cum debitis dolorum incidunt, ipsum modi nam necessitatibus nemo nisi nobis quisquam quos rerum sed sunt veniam vitae? Ab accusamus dicta dolores, expedita fugiat illo in modi molestiae non odio porro qui, tenetur voluptates. Ad animi atque autem deleniti dolores eius enim esse fuga hic impedit ipsam iure magnam maxime omnis quaerat quod quos, soluta temporibus veniam voluptatem. A alias animi assumenda at atque consequuntur culpa cumque cupiditate delectus, deserunt distinctio dolore dolorem dolores est et illum ipsam iste itaque iusto labore, laudantium nam necessitatibus non odio officia, quaerat quasi saepe sint temporibus vel. Cumque dolorum, eligendi mollitia nulla quasi saepe ut velit voluptas. Aperiam deserunt ex fugiat impedit magnam quasi sit unde. Ab accusantium ad adipisci animi asperiores beatae deleniti dolore dolorum enim facere facilis fuga fugiat fugit illo illum ipsum libero modi necessitatibus nemo nesciunt numquam odio odit officia placeat possimus quam quas quisquam quo, reiciendis rem repellat repellendus saepe similique tempora veritatis vero voluptatibus! A accusantium dolorem est explicabo fugit laboriosam magni nulla, obcaecati perferendis possimus recusandae rem temporibus veniam. Ad assumenda atque autem consequatur cupiditate dicta distinctio dolores dolorum ducimus expedita, facilis impedit incidunt iure laborum magni maiores minus, molestias necessitatibus nostrum odio perferendis quae quaerat qui repellat sint sit, suscipit vitae. Assumenda dolores ea excepturi, explicabo inventore ipsa neque praesentium qui quod sint voluptate voluptatum! Amet corporis eligendi expedita hic minima, quam quidem quisquam repellat saepe ut! Aliquam aliquid animi autem consectetur cum, deleniti dolore ducimus eligendi eveniet excepturi expedita facere fugiat harum id impedit, ipsa ipsam iste iusto labore laboriosam laudantium magnam magni maxime neque officiis omnis perferendis quam quasi quisquam reiciendis rem sit temporibus tenetur ut vel, veritatis vero. Aliquam amet culpa excepturi exercitationem explicabo labore maxime modi molestiae nihil, nostrum quae ratione sequi similique sint tempore. Aliquid commodi ex labore nam nulla pariatur, perferendis porro quam, sit tempore unde voluptate voluptatem voluptatibus! Accusamus commodi delectus deserunt dolores eaque error eveniet, illum nesciunt numquam perspiciatis, quisquam repudiandae soluta. Alias aliquam atque cum deleniti dicta, impedit magnam maxime molestias, necessitatibus nesciunt officia, praesentium quisquam rem veniam vero! Amet asperiores assumenda autem consectetur culpa cupiditate distinctio doloremque doloribus ducimus ea eaque enim eos exercitationem expedita, facilis fugiat fugit hic incidunt ipsa ipsam iste itaque, laboriosam laudantium, nisi nulla numquam officia officiis optio quos ratione repellat saepe sapiente sint soluta ullam veniam vitae. Ad alias animi at autem commodi cumque, dicta dolor doloremque, eum expedita facilis fugit harum illo illum in incidunt inventore ipsum labore laborum magnam necessitatibus nulla odio optio quae quidem quisquam quo repellat, repellendus sapiente sequi tempore ut vero voluptas. Adipisci aperiam commodi debitis dignissimos dolorem error eum excepturi facere fugiat, id magni neque nihil numquam odio officiis perspiciatis porro quae qui, sit soluta sunt temporibus voluptate voluptatibus. Accusantium commodi, laborum! Amet corporis, ullam! Eligendi expedita laudantium nesciunt? Consectetur cumque eaque excepturi, fuga in omnis possimus quasi quisquam sequi voluptates. Ab dignissimos distinctio earum iure, quod rerum sequi voluptatibus. A ab accusantium alias aspernatur aut commodi consequuntur cupiditate debitis dignissimos distinctio doloremque ea eligendi facere illo incidunt labore laboriosam laborum minus natus nemo neque nisi nulla, numquam odit pariatur quaerat quam qui quos repellat reprehenderit rerum temporibus veniam voluptas. Alias animi aspernatur, culpa cupiditate earum eligendi exercitationem in iste laboriosam, maxime modi necessitatibus optio quos suscipit totam? Aspernatur beatae corporis cumque cupiditate dolore ea, eos error excepturi impedit ipsum laudantium maiores minima molestiae mollitia nam porro quasi quisquam recusandae reprehenderit repudiandae, rerum totam ullam unde veritatis voluptatem voluptates voluptatum. Corporis dignissimos quibusdam quis! Consequuntur dolor placeat quis saepe voluptate. Accusantium alias architecto aspernatur at beatae consequatur dolor doloribus eos excepturi in ipsum iure laboriosam laborum libero magnam necessitatibus nisi nostrum obcaecati, officiis possimus quia repudiandae, rerum sapiente sit totam, voluptate voluptatibus voluptatum! Aspernatur distinctio dolorem dolores molestias nihil nobis nulla, omnis possimus praesentium vitae. Accusamus accusantium animi, aspernatur at consectetur dolorem doloremque eligendi eos exercitationem expedita facilis fuga fugit in inventore iure magni maiores maxime mollitia nulla obcaecati officiis pariatur perferendis praesentium quasi quis quo quos sapiente totam unde velit veritatis voluptates.</div>
+                    <div class="bg-gray-700 flex-1 flex flex-col justify-between">
+                        <div class=" text-sm text-gray-400 overflow-y-auto">
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Message Here</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Hello</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Ola</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">こんにちは</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Ni-Hao</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Bojur</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Thats all languages i know</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Stupid</div>
+                                </div>
+                            </div>
+                            <div class="flex py-4 mx-6 my-3 border-t border-gray-500">
+                                <div class="flex-none">
+                                    <a href="">
+                                        <img src="static/avatar2.jpg" alt="" class="w-10 h-10 rounded-full">
+                                    </a>
+                                </div>
+                                <div class="ml-5">
+                                    <div>
+                                        <a href=""class="text-sm text-white hover:underline">User Name</a>
+                                        <span class="text-xs text-gray-500">Tuesday at 3:12 AM</span>
+                                    </div>
+                                    <div class="text-gray-300">Genius</div>
+                                </div>
+                            </div>
+                        </div>
+                            <div class="flex items-center h-12 mx-2 mb-1 rounded-l" style="background: rgba(45,55,62,0.88)">
+                                <div class="border-r border-gray-700">
+                                    <button type="text" class="mx-3 my-2 px-2 py-2 rounded-full bg-gray-700 text-gray-500
+                                    hover:text-white hover:bg-gray-500">
+                                        <svg fill="currentColor" class="w-3 h-3" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><path d="M38 26H26v12h-4V26H10v-4h12V10h4v12h12v4z"></path><path d="M0 0h48v48H0z" fill="none"></path></svg>
+                                    </button>
+                                </div>
+                                <div class="flex-1">
+                                    <input type="text" placeholder="add a comment" class="bg-gray-800 focus:outline-none px-2 text-gray-300 text-sm w-full">
+                                </div>
+                                <div class="px-2 py-2 rounded-r flex items-center">
+                                    <button type="text" class="my-2 mr-2 text-gray-500
+                                    hover:text-gray-300">
+                                        <svg fill="currentColor" class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"></path><path d="M12 6c1.11 0 2-.9 2-2 0-.38-.1-.73-.29-1.03L12 0l-1.71 2.97c-.19.3-.29.65-.29 1.03 0 1.1.9 2 2 2zm4.6 9.99l-1.07-1.07-1.08 1.07c-1.3 1.3-3.58 1.31-4.89 0l-1.07-1.07-1.09 1.07C6.75 16.64 5.88 17 4.96 17c-.73 0-1.4-.23-1.96-.61V21c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-4.61c-.56.38-1.23.61-1.96.61-.92 0-1.79-.36-2.44-1.01zM18 9h-5V7h-2v2H6c-1.66 0-3 1.34-3 3v1.54c0 1.08.88 1.96 1.96 1.96.52 0 1.02-.2 1.38-.57l2.14-2.13 2.13 2.13c.74.74 2.03.74 2.77 0l2.14-2.13 2.13 2.13c.37.37.86.57 1.38.57 1.08 0 1.96-.88 1.96-1.96V12C21 10.34 19.66 9 18 9z"></path></svg>
+                                    </button>
+
+                                    <button type="text" class="mr-2 my-2 text-gray-500
+                                    hover:text-gray-300">
+                                       <svg fill="currentColor" class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs><path id="a" d="M24 24H0V0h24v24z"></path></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"></use></clipPath><path d="M11.5 9H13v6h-1.5zM9 9H6c-.6 0-1 .5-1 1v4c0 .5.4 1 1 1h3c.6 0 1-.5 1-1v-2H8.5v1.5h-2v-3H10V10c0-.5-.4-1-1-1zm10 1.5V9h-4.5v6H16v-2h2v-1.5h-2v-1z" clip-path="url(#b)"></path></svg>
+                                    </button>
+
+                                    <button type="text" class="my-2 text-gray-500
+                                    hover:text-gray-300">
+                                        <svg fill="currentColor" class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"></path><circle cx="15.5" cy="9.5" r="1.5"></circle><circle cx="8.5" cy="9.5" r="1.5"></circle><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-4c-1.48 0-2.75-.81-3.45-2H6.88c.8 2.05 2.79 3.5 5.12 3.5s4.32-1.45 5.12-3.5h-1.67c-.7 1.19-1.97 2-3.45 2z"></path></svg>
+                                    </button>
+
+                                </div>
+                            </div>
+                    </div>
                     <div class="bg-indigo-500 w-56 flex-none flex flex-col justify-between">
                         <div class="overflow-y-auto">User Side Bar Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, corporis culpa, cupiditate dolor dolores, dolorum earum eos est facilis incidunt ipsa iste iusto maiores molestiae natus necessitatibus nisi optio pariatur provident quam quidem quis quo repellendus velit vero. Adipisci alias aliquam asperiores aspernatur assumenda cumque deserunt distinctio, dolorem eaque eos est impedit inventore laboriosam laudantium nemo nobis numquam, obcaecati, optio porro quos repudiandae soluta totam vero! Autem corporis cumque deserunt, dicta earum hic iusto molestias natus sit ut veritatis vero? Accusamus ad aperiam atque blanditiis consectetur consequatur cum dicta doloribus ducimus eum fuga id in incidunt labore laboriosam maxime, modi molestiae molestias necessitatibus, neque non nulla, odit provident quasi quibusdam rem rerum sequi suscipit tempora tempore temporibus tenetur veritatis voluptates. Ab dignissimos enim fuga id officia quidem repellat voluptate? Animi consequatur dolor ducimus error eum iste omnis perferendis placeat, ullam voluptates? Enim fuga nostrum omnis quo recusandae tenetur? Atque dolorem doloremque exercitationem neque nobis quam totam vero? A ab ad amet aspernatur at cupiditate dignissimos dolore doloremque dolorum eos et eum exercitationem fugiat in incidunt ipsum iste iusto labore laborum maxime molestias, nostrum numquam officia omnis porro quam quasi qui quibusdam quis recusandae reprehenderit sed suscipit ullam unde velit, veritatis voluptas. Aliquam dignissimos doloremque esse eum rerum? A ab animi aperiam assumenda aut consequatur culpa cupiditate, eius error ex explicabo fugit illo itaque laborum natus necessitatibus nemo quis reprehenderit saepe, ut vel, veritatis voluptatem. Aspernatur atque commodi consequatur cum, cupiditate dolor dolores dolorum enim eum expedita, iusto laudantium odit optio perferendis quo sint sit tenetur vero! Ad beatae consectetur consequuntur culpa cum distinctio error illo laboriosam laborum maxime molestiae natus, numquam, odit quae quis sed sit tenetur voluptas. Accusamus aperiam atque cum, debitis deserunt dolore doloribus ea earum eos error eveniet ex illo incidunt inventore laboriosam magnam non, odio odit perspiciatis praesentium quia quo ratione recusandae sed similique tempora voluptates. Ab accusamus aliquam amet blanditiis cupiditate dicta dolorum ea earum eius enim et eum eveniet ex expedita explicabo facilis impedit ipsum laborum, modi nam nostrum nulla omnis perspiciatis placeat possimus praesentium provident quaerat quam quas quia quod ratione saepe sint sunt totam veniam voluptatibus! Ab architecto consequuntur esse in, ipsa pariatur reprehenderit sapiente ut voluptatem! Amet, commodi ducimus excepturi fugiat itaque laborum minus molestiae officiis, pariatur quisquam saepe, sint vero voluptas? Aliquam, aliquid aut autem culpa deleniti ducimus enim laudantium minima necessitatibus perferendis provident repellat sed voluptas. Autem consectetur dignissimos distinctio eos est id perspiciatis quibusdam, ratione reiciendis totam? Adipisci commodi cupiditate eius ex excepturi explicabo iste iusto minus possimus, repudiandae saepe, tempora voluptatem! Animi beatae commodi, deleniti dolore enim eos inventore nam neque perferendis porro quo recusandae reiciendis sequi, sint sunt suscipit vero voluptatem. Ab accusantium aliquam animi aut culpa cum debitis eos fugiat molestias mollitia, numquam officiis placeat provident quia repudiandae ullam voluptatum! Alias aspernatur blanditiis consequuntur corporis, cumque doloribus eius enim illo mollitia natus nemo nesciunt nisi nobis odit officiis praesentium quam quasi quo rerum sapiente sequi sunt tempore, temporibus totam ullam ut voluptatum. Deleniti iste, vitae!</div>
                         <div class="bg-blue-600">Bottom of User Side Bar</div>
